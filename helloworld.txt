@@ -1,8 +1,11 @@
 Hello world
 
 Coucou
+<<<<<<< HEAD
 
 
 Bonjour
 
 Ola
+=======
+>>>>>>> parent of 1a8985c (add bonjour)
